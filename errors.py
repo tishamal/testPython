@@ -1,7 +1,7 @@
 #name errors
 
 #Address = "Rahula College, Matara"
-#print(AddressLine1)
+print(AddressLine1)
 
 
 #index error
@@ -11,11 +11,11 @@
 
 #type error
 
-#print("Saman"+1)
+print("Saman"+1)
 
 #value error
 
-#print(int("Hello"))
+print(int("Hello"))
 
 
 import mymodule
